@@ -3,8 +3,9 @@
 
 *Logins e Senhas para acesso ao Site:
 
-* link para acesso:
+* link 1 para acesso:
 star-wars-345f1.web.app
+* link 2 para acesso:
 star-wars-345f1.firebaseapp.com
 
 *login: gabriel@gmail.com
