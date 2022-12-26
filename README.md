@@ -1,20 +1,20 @@
-*Nome do Integrante: Gabriel Franco de Almeida
-*RA: 1125229
-
-*Logins e Senhas para acesso ao Site:
+* Nome do Integrante: Gabriel Franco de Almeida
+* RA: 1125229
 
 * link 1 para acesso:
 star-wars-345f1.web.app
 * link 2 para acesso:
 star-wars-345f1.firebaseapp.com
 
-*login: gabriel@gmail.com
-*senha: gabriel123
+* Logins e Senhas para acesso ao Site:
 
-*login: marcos@gmail.com
-*senha: marcos123
+* login: gabriel@gmail.com
+* senha: gabriel123
 
-*Atividads que foram feitas:
+* login: marcos@gmail.com
+* senha: marcos123
+
+* Atividads que foram feitas:
 1)  FEITA.
 2)  FEITA.
 3)  FEITA.
